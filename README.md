@@ -26,11 +26,10 @@ This repository contains MATLAB code that performs the retrieval of correspondin
 
 ## Files
 - `code/`: This directory contains the MATLAB code files.
-### Code
-- `PCCFM_code.mlx`: The main MATLAB script that performs the retrieval of wavelengths for pixels in an image.
-- `Hue_Wavelength_Mapping.mat`: A MATLAB MAT file that contains the mapping relationship between hue and wavelength.
-### Dat
-- `example_data.dat`: A DAT file containing example data for testing purposes. This file can be used to run the code and see the output.
+  - `PCCFM_code.mlx`: The main MATLAB script that performs the retrieval of wavelengths for pixels in an image.
+  - `Hue_Wavelength_Mapping.mat`: A MATLAB MAT file that contains the mapping relationship between hue and wavelength.
+- `dat/`: This directory contains example data files.
+  
 
 ## License
 
