@@ -1,4 +1,4 @@
-# PCCFM MATLAB Code 
+# PCCFM
 
 This repository contains MATLAB code that performs the retrieval of corresponding wavelengths for pixels in an image based on a mapping relationship between hue and wavelength.
 
