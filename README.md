@@ -30,6 +30,9 @@ This repository contains MATLAB code that performs the retrieval of correspondin
   - `Hue_Wavelength_Mapping.mat`: A MATLAB MAT file that contains the mapping relationship between hue and wavelength.
 - `dat/`: This directory contains example data files.
   
+## Expected Run Time
+
+The expected run time for the demo on a "normal" desktop computer can vary, but it is typically within a few seconds to a few minutes depending on the size of the input image and the processing power of your computer. In most cases, the computation is fast and should complete within seconds.
 
 ## License
 
