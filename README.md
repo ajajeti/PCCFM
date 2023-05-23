@@ -22,7 +22,9 @@ This repository contains MATLAB code that performs the retrieval of correspondin
 
 ## Prerequisites
 
-- MATLAB: The code is written in MATLAB and requires MATLAB software to be installed on your system.
+- MATLAB: The code is written in MATLAB and requires MATLAB software to be installed on your system. The code has been tested with MATLAB version '9.9.0.1467703 (R2020b)'.
+
+- Operating System: The code is platform-independent and can be run on Windows, macOS, and Linux operating systems. It has been tested on Microsoft Windows [Version 10.0.22621.1702].
 
 ## Files
 - `code/`: This directory contains the MATLAB code files.
